@@ -9,11 +9,20 @@
 
 #### Research Question
 I'm interested in exploring financial loan transactions related dataset. I want to explore the possibility of creating models for assessing the credit risk associated with an individual applying for the loan and also want to explore whether banks can be innovative a tailer loan products based on the characteristics of their customer segment.
+Credit risk measures how likely a borrower is to pay back a loan - whether it’s a mortgage, a personal loan or a credit card. Lenders consider a potential borrower’s credit risk to inform the decisions they make before extending them a line of credit. And in many cases, lenders use information like the applicant’s credit history and DTI ratio to assess credit risk.
+Generally speaking, borrowers with higher credit scores are considered less risky to lenders. They may be viewed as more likely to pay back a loan on time and in full, so they are more likely to receive the loans they apply for. 
 
 #### Data Sources
 I'm going to look for the dataset from open data source sites such as Kaggle
 https://www.kaggle.com/datasets/nezukokamaado/auto-loan-dataset 
 #### Methodology
+Leverages CRISP-DM data science development methodology. It contains the following 6 phases
+1. Business Understanding
+2. Data Understanding
+3. Data Preparation
+4. Modeling
+5. Evaluation
+6. Deployment
 
 #### Results
 What did your research find?
